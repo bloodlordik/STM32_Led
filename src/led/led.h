@@ -3,3 +3,7 @@
 #define LED_GPIO_PORT                          GPIOA
 
 void LedBlinck(void);
+
+void LedActive(void);
+
+void LedInactive(void);
